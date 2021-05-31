@@ -71,7 +71,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![alt](https://Users/rickkrebs/CyberSyndex/Images/docker-ps-output.png)
+<img width="1388" alt="docker-ps-output" src="https://user-images.githubusercontent.com/46389908/120214589-881bdc00-c1e9-11eb-9aaf-aa2979f78c87.png">
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
