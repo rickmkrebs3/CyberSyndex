@@ -3,8 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![alt](https://Users/rickkrebs/CyberSyndex/Images/CloudVirtFinalKrebs.png)
-
+<img width="738" alt="CloudVirtFinalKrebs" src="https://user-images.githubusercontent.com/46389908/120214504-6a4e7700-c1e9-11eb-9c8f-c821847a0a25.png">
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select files such as filebeat-playbook.yml may be used to install only certain pieces of it, such as Filebeat.
 
